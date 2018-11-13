@@ -9,7 +9,7 @@
 
 Identify the usage of WebBrick, and carve the download from the server.
 
-![Screenshot](meta/webbrick.jpg?raw=true "Screenshot")
+![Screenshot](meta/webbrick.png?raw=true "Screenshot")
 
 ### UDS Signature Detection
 
