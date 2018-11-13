@@ -7,6 +7,10 @@
 
 ## Custom Sigs
 
+Identify the usage of WebBrick, and carve the download from the server.
+
+![Screenshot](meta/webbrick.jpg?raw=true "Screenshot")
+
 ### UDS Signature Detection
 
 ### Snort Signature Detection
