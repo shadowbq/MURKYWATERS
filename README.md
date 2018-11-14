@@ -5,6 +5,14 @@
 * MDR Fail-over
 * HA Sensor Fail-over
 
+## Telemetry Test
+
+NSM Manager -> Inegration -> GTI -> test Connection
+
+1.80.0.0 -	1.95.255.255 China 
+
+1.80.1.1 China
+
 ## Custom Sigs
 
 Identify the usage of WebBrick, and carve the download from the server.
