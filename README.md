@@ -16,7 +16,7 @@ Identify the usage of WebBrick, and carve the download from the server.
 ### Snort Signature Detection
 
 ```snort
-alert tcp any any -> any any (msg: "Development Mode Webserver Security Risk WEBBRICK"; flow:to_server,established; content:"WEBrick/1."; sid:1000001; rev:1)
+alert tcp any any -> any any (msg: "Development Mode Webserver Security Risk WEBRICK"; flow:to_server,established; content:"WEBrick/1."; sid:1000001; rev:1)
 ```
 
 # ATD Testing
